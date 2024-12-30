@@ -108,3 +108,9 @@ footer {
   color: purple;
   cursor: pointer;
 }
+
+@media (max-width: 30.2em) {
+  .form-input {
+    width: 30rem;
+  }
+}
