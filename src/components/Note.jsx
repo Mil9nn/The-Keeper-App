@@ -28,7 +28,7 @@ function Note() {
                   deleteNote(index);
                 }}
               >
-                <DeleteIcon className="custom-icon" />
+                <DeleteIcon fontSize="large" />
               </button>
             </div>
           );

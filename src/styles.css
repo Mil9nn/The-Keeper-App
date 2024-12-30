@@ -101,9 +101,7 @@ footer {
   border: none;
   background-color: #fff;
 }
-.custom-icon {
-  font-size: 3rem;
-}
+
 .delete-note-btn:hover {
   color: purple;
   cursor: pointer;
